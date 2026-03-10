@@ -178,7 +178,9 @@ const Gallery = () => {
           ))}
         </div>
       )}
-
+    </div>
+  );
+};
 
 export default function App() {
   return (
