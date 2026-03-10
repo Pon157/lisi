@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "filename": "gojo_classic.jpg",
+    "title": "Классический Годжо",
+    "category": "Cosplay"
+  },
+  {
+    "id": 3,
+    "filename": "life_casual.jpg",
+    "title": "Повседневный образ",
+    "category": "Life"
+  }
+]
