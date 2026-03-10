@@ -62,7 +62,7 @@ const Home = () => (
           Bald <br /> <span className="text-transparent" style={{ WebkitTextStroke: '1px white' }}>Gojo</span>
         </h1>
         <p className="text-gray-400 max-w-md text-lg leading-relaxed mb-12">
-          Косплеер, певица и просто лысый Годжо. Добро пожаловать в мой мир.
+          Косплеер, певица и просто лысый Годжо. Добро пожаловать в мой мир :3
         </p>
         <Link 
           to="/gallery" 
@@ -145,7 +145,7 @@ const Gallery = () => {
         </div>
       )}
 
-    
+      
 
 export default function App() {
   return (
@@ -159,7 +159,7 @@ export default function App() {
       </AnimatePresence>
       <footer className="py-20 px-6 text-center border-t border-white/5">
         <p className="text-[10px] uppercase tracking-[0.5em] text-gray-500">
-          © {new Date().getFullYear()} Лысый Годжо. Создано @kotickr
+          © {new Date().getFullYear()} Лысый Годжо. Сделано @kotickr
         </p>
       </footer>
     </Router>
